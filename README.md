@@ -14,8 +14,8 @@ Para ejecutar en la terminal:
 
 Navegar a la ruta:
 
-    .../out/production/DOO_Exp3_S1_Javiera_Puga
+    .../out/production/DOO_Exp2_S5_Javiera_Puga
 
 Luego ejecutar:
 
-    java app.Main
+    java ui.Main
