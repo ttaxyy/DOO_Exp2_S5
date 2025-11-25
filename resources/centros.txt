@@ -1,0 +1,5 @@
+1;Isla Huar;Calbuco;1200
+2;Valle Lindo;Cochamó;1194
+3;Frutillar;Frutillar;1252
+4;El Cisne;Llanquihue;1183
+5;Gran Océano;Puerto Varas;1248
